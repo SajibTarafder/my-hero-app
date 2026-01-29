@@ -43,8 +43,8 @@ const Installation = () => {
                   type="radio"
                   name="Low-High"
                   className="theme-controller w-full btn btn-sm btn-block btn-ghost justify-start"
-                  aria-label="Default"
-                  value="default"
+                  aria-label="Low-High"
+                  value="Low-High"
                 />
               </li>
 

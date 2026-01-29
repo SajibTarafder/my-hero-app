@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/DgDPkV3M/p1.png",
+   "title": "NoteFlow – Smart Notes ",
+    "companyName": "HeroSoft",
+    "description": "FitTrack is a comprehensive health and fitness tracking application designed to support users in achieving their wellness goals. The app allows users to log workouts, monitor calories, track weight, and evaluate progress over time with detailed charts and statistics. FitTrack includes personalized workout plans for different fitness levels and integrates seamlessly with wearable devices to automatically record activities. Users can track steps, heart rate, sleep patterns, and hydration levels to maintain a holistic view of their health. The nutrition module offers meal tracking, caloric analysis, and suggestions for balanced diets, ensuring users meet their dietary requirements. FitTrack also provides goal-setting capabilities, progress notifications, and reminders to keep users motivated. The community feature allows users to connect with friends, share achievements, and participate in challenges, fostering motivation and accountability. Advanced analytics show performance trends and insights, helping users adjust routines for optimal results. The interface is user-friendly, with interactive dashboards, visual feedback, and intuitive navigation that make tracking health simple and engaging. FitTrack also supports integration with third-party apps and devices to synchronize data, providing a complete ecosystem for fitness and wellness management. Whether users are beginners or seasoned athletes, FitTrack empowers them to take control of their health, improve lifestyle habits, and stay on track towards personal fitness goals consistently and effectively, making it an indispensable companion in daily wellness routines.",
+    "size": 40,
+    "reviews": 12000,
+    "ratingAvg": 4.6,
+    "downloads": "25 M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 5800 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/PsSm7XwC/p2.png",
+    "title": "NoteFlow  Smart Notes ",
+    "companyName": "Wellness Inc",
+    "description": "NoteFlow is a powerful task management and note-taking application designed to boost personal and professional productivity. With NoteFlow, users can create structured notes, checklists, and reminders to organize their day efficiently. The app provides multiple ways to categorize notes, tag items for quick searching, and set priority levels for tasks. It also supports collaboration, allowing users to share notes and projects with teammates seamlessly. Advanced features include voice notes, rich text formatting, multimedia embedding, and cloud syncing across devices. NoteFlow also includes a dashboard view where users can track daily, weekly, and monthly progress, making it easier to stay focused on goals. Integration with calendars ensures that deadlines and events are automatically tracked. Notifications and smart suggestions further enhance productivity, reminding users about important tasks or suggesting optimized schedules. Whether for students, professionals, or creative individuals, NoteFlow offers a comprehensive suite of tools to capture ideas, manage projects, and improve workflow without losing track of essential details. The interface is clean, intuitive, and customizable, with themes and layouts that adapt to individual preferences. Users can also export notes to PDF or share via email, making collaboration and documentation effortless. With ongoing updates and user-friendly design, NoteFlow has become a reliable companion for anyone looking to maximize efficiency and maintain organization in their daily life. Additionally, it supports integration with third-party apps for extended functionality, providing a complete productivity ecosystem. From simple reminders to complex project tracking, NoteFlow covers every aspect of managing your time and information effectively, making it an indispensable tool for modern digital life.",
+    "size": 25,
+    "reviews": 9800,
+    "ratingAvg": 4.5,
+    "downloads": "18 M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 4500 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/DgWphs6L/p3.png",
+    "title": "EduSmart  Online Learning ",
+    "companyName": "EduTech",
+     "description": "EduSmart is an interactive online learning platform that empowers students to learn at their own pace with structured courses, quizzes, and assessments. The platform offers a variety of subjects including coding, languages, arts, and sciences. EduSmart allows teachers to manage classrooms, assign homework, and track student progress with detailed analytics. Students can participate in discussion forums, collaborate on group projects, and earn badges and certificates upon course completion. The app integrates multimedia content including videos, simulations, and interactive exercises to enhance engagement and understanding. Real-time progress tracking helps learners identify strengths and weaknesses, and adaptive learning paths ensure that content matches skill levels. Notifications, reminders, and goal-setting features motivate students to stay on track. EduSmart also allows parents to monitor children’s learning progress, making it a complete solution for online education. With a clean and intuitive interface, offline access, and compatibility with multiple devices, EduSmart ensures a seamless learning experience. Its scalable infrastructure and continuous updates make it suitable for schools, colleges, and individual learners who wish to maximize their educational outcomes efficiently and effectively.",
+    "size": 35,
+    "reviews": 15000,
+    "ratingAvg": 4.7,
+    "downloads": "32 M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 4300 },
+      { "name": "5 star", "count": 9100 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/d0nRTyhZ/p6.jpg",
+  "title": "TravelGo  Trip Planner",
+    "companyName": "FinTech Labs",
+     "description": "EduSmart is an interactive online learning platform that empowers students to learn at their own pace with structured courses, quizzes, and assessments. The platform offers a variety of subjects including coding, languages, arts, and sciences. EduSmart allows teachers to manage classrooms, assign homework, and track student progress with detailed analytics. Students can participate in discussion forums, collaborate on group projects, and earn badges and certificates upon course completion. The app integrates multimedia content including videos, simulations, and interactive exercises to enhance engagement and understanding. Real-time progress tracking helps learners identify strengths and weaknesses, and adaptive learning paths ensure that content matches skill levels. Notifications, reminders, and goal-setting features motivate students to stay on track. EduSmart also allows parents to monitor children’s learning progress, making it a complete solution for online education. With a clean and intuitive interface, offline access, and compatibility with multiple devices, EduSmart ensures a seamless learning experience. Its scalable infrastructure and continuous updates make it suitable for schools, colleges, and individual learners who wish to maximize their educational outcomes efficiently and effectively.",
+    "size": 35,
+    "reviews": 8600,
+    "ratingAvg": 4.4,
+    "downloads": "140 M",
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 3150 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/H6DpN33/p5.jpg",
+      "title": "Chatify Secure Messenger",
+    "companyName": "SkyApps",
+"description": "NoteFlow is a powerful task management and note-taking application designed to boost personal and professional productivity. With NoteFlow, users can create structured notes, checklists, and reminders to organize their day efficiently. The app provides multiple ways to categorize notes, tag items for quick searching, and set priority levels for tasks. It also supports collaboration, allowing users to share notes and projects with teammates seamlessly. Advanced features include voice notes, rich text formatting, multimedia embedding, and cloud syncing across devices. NoteFlow also includes a dashboard view where users can track daily, weekly, and monthly progress, making it easier to stay focused on goals. Integration with calendars ensures that deadlines and events are automatically tracked. Notifications and smart suggestions further enhance productivity, reminding users about important tasks or suggesting optimized schedules. Whether for students, professionals, or creative individuals, NoteFlow offers a comprehensive suite of tools to capture ideas, manage projects, and improve workflow without losing track of essential details. The interface is clean, intuitive, and customizable, with themes and layouts that adapt to individual preferences. Users can also export notes to PDF or share via email, making collaboration and documentation effortless. With ongoing updates and user-friendly design, NoteFlow has become a reliable companion for anyone looking to maximize efficiency and maintain organization in their daily life. Additionally, it supports integration with third-party apps for extended functionality, providing a complete productivity ecosystem. From simple reminders to complex project tracking, NoteFlow covers every aspect of managing your time and information effectively, making it an indispensable tool for modern digital life.",
+    "size": 30,
+    "reviews": 5400,
+    "ratingAvg": 4.3,
+    "downloads": "11 M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 1750 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/qYpSdyk6/r5.jpg",
+  "title": "Weatherly Live Weather",
+    "companyName": "Creative Apps",
+     "description": "EduSmart is an interactive online learning platform that empowers students to learn at their own pace with structured courses, quizzes, and assessments. The platform offers a variety of subjects including coding, languages, arts, and sciences. EduSmart allows teachers to manage classrooms, assign homework, and track student progress with detailed analytics. Students can participate in discussion forums, collaborate on group projects, and earn badges and certificates upon course completion. The app integrates multimedia content including videos, simulations, and interactive exercises to enhance engagement and understanding. Real-time progress tracking helps learners identify strengths and weaknesses, and adaptive learning paths ensure that content matches skill levels. Notifications, reminders, and goal-setting features motivate students to stay on track. EduSmart also allows parents to monitor children’s learning progress, making it a complete solution for online education. With a clean and intuitive interface, offline access, and compatibility with multiple devices, EduSmart ensures a seamless learning experience. Its scalable infrastructure and continuous updates make it suitable for schools, colleges, and individual learners who wish to maximize their educational outcomes efficiently and effectively.",
+    "size": 35,
+    "reviews": 6200,
+    "ratingAvg": 4.5,
+    "downloads": "160",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 2450 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/RkWQhZ6W/r3.jpg",
+ "title": "TaskZen Daily Planner",
+    "companyName": "SoundLab",
+     "description": "EduSmart is an interactive online learning platform that empowers students to learn at their own pace with structured courses, quizzes, and assessments. The platform offers a variety of subjects including coding, languages, arts, and sciences. EduSmart allows teachers to manage classrooms, assign homework, and track student progress with detailed analytics. Students can participate in discussion forums, collaborate on group projects, and earn badges and certificates upon course completion. The app integrates multimedia content including videos, simulations, and interactive exercises to enhance engagement and understanding. Real-time progress tracking helps learners identify strengths and weaknesses, and adaptive learning paths ensure that content matches skill levels. Notifications, reminders, and goal-setting features motivate students to stay on track. EduSmart also allows parents to monitor children’s learning progress, making it a complete solution for online education. With a clean and intuitive interface, offline access, and compatibility with multiple devices, EduSmart ensures a seamless learning experience. Its scalable infrastructure and continuous updates make it suitable for schools, colleges, and individual learners who wish to maximize their educational outcomes efficiently and effectively.",
+    "size": 35,
+    "reviews": 22000,
+    "ratingAvg": 4.6,
+    "downloads": "50 M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 7800 },
+      { "name": "5 star", "count": 10300 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/5xhbd1Vj/r2.jpg",
+   "title": "SecureIT App Lock",
+    "companyName": "Explore Inc",
+     "description": "EduSmart is an interactive online learning platform that empowers students to learn at their own pace with structured courses, quizzes, and assessments. The platform offers a variety of subjects including coding, languages, arts, and sciences. EduSmart allows teachers to manage classrooms, assign homework, and track student progress with detailed analytics. Students can participate in discussion forums, collaborate on group projects, and earn badges and certificates upon course completion. The app integrates multimedia content including videos, simulations, and interactive exercises to enhance engagement and understanding. Real-time progress tracking helps learners identify strengths and weaknesses, and adaptive learning paths ensure that content matches skill levels. Notifications, reminders, and goal-setting features motivate students to stay on track. EduSmart also allows parents to monitor children’s learning progress, making it a complete solution for online education. With a clean and intuitive interface, offline access, and compatibility with multiple devices, EduSmart ensures a seamless learning experience. Its scalable infrastructure and continuous updates make it suitable for schools, colleges, and individual learners who wish to maximize their educational outcomes efficiently and effectively.",
+    "size": 35,
+    "reviews": 7400,
+    "ratingAvg": 4.4,
+    "downloads": "13 M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 2750 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/pv0Zdd5r/r1.png",
+   "title": "TaskZen – Daily Planner",
+    "companyName": "Pixel Studio",
+   "description": "NoteFlow is a powerful task management and note-taking application designed to boost personal and professional productivity. With NoteFlow, users can create structured notes, checklists, and reminders to organize their day efficiently. The app provides multiple ways to categorize notes, tag items for quick searching, and set priority levels for tasks. It also supports collaboration, allowing users to share notes and projects with teammates seamlessly. Advanced features include voice notes, rich text formatting, multimedia embedding, and cloud syncing across devices. NoteFlow also includes a dashboard view where users can track daily, weekly, and monthly progress, making it easier to stay focused on goals. Integration with calendars ensures that deadlines and events are automatically tracked. Notifications and smart suggestions further enhance productivity, reminding users about important tasks or suggesting optimized schedules. Whether for students, professionals, or creative individuals, NoteFlow offers a comprehensive suite of tools to capture ideas, manage projects, and improve workflow without losing track of essential details. The interface is clean, intuitive, and customizable, with themes and layouts that adapt to individual preferences. Users can also export notes to PDF or share via email, making collaboration and documentation effortless. With ongoing updates and user-friendly design, NoteFlow has become a reliable companion for anyone looking to maximize efficiency and maintain organization in their daily life. Additionally, it supports integration with third-party apps for extended functionality, providing a complete productivity ecosystem. From simple reminders to complex project tracking, NoteFlow covers every aspect of managing your time and information effectively, making it an indispensable tool for modern digital life.",
+    "size": 25,
+    "reviews": 10200,
+    "ratingAvg": 4.5,
+    "downloads": "21 M",
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3900 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/Pz0s6j9m/p16.png",
+    "title": "ShopEase EcomSoft",
+    "companyName": "EcomSoft",
+    "description": "NoteFlow is a powerful task management and note-taking application designed to boost personal and professional productivity. With NoteFlow, users can create structured notes, checklists, and reminders to organize their day efficiently. The app provides multiple ways to categorize notes, tag items for quick searching, and set priority levels for tasks. It also supports collaboration, allowing users to share notes and projects with teammates seamlessly. Advanced features include voice notes, rich text formatting, multimedia embedding, and cloud syncing across devices. NoteFlow also includes a dashboard view where users can track daily, weekly, and monthly progress, making it easier to stay focused on goals. Integration with calendars ensures that deadlines and events are automatically tracked. Notifications and smart suggestions further enhance productivity, reminding users about important tasks or suggesting optimized schedules. Whether for students, professionals, or creative individuals, NoteFlow offers a comprehensive suite of tools to capture ideas, manage projects, and improve workflow without losing track of essential details. The interface is clean, intuitive, and customizable, with themes and layouts that adapt to individual preferences. Users can also export notes to PDF or share via email, making collaboration and documentation effortless. With ongoing updates and user-friendly design, NoteFlow has become a reliable companion for anyone looking to maximize efficiency and maintain organization in their daily life. Additionally, it supports integration with third-party apps for extended functionality, providing a complete productivity ecosystem. From simple reminders to complex project tracking, NoteFlow covers every aspect of managing your time and information effectively, making it an indispensable tool for modern digital life.",
+    "size": 25,
+    "reviews": 18000,
+    "ratingAvg": 4.6,
+    "downloads": "42 M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 6800 },
+      { "name": "5 star", "count": 7900 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/bcYT636/p10.png",
+    "title": "SecureVPN shopping app",
+    "companyName": "CyberSafe",
+     "description": "EduSmart is an interactive online learning platform that empowers students to learn at their own pace with structured courses, quizzes, and assessments. The platform offers a variety of subjects including coding, languages, arts, and sciences. EduSmart allows teachers to manage classrooms, assign homework, and track student progress with detailed analytics. Students can participate in discussion forums, collaborate on group projects, and earn badges and certificates upon course completion. The app integrates multimedia content including videos, simulations, and interactive exercises to enhance engagement and understanding. Real-time progress tracking helps learners identify strengths and weaknesses, and adaptive learning paths ensure that content matches skill levels. Notifications, reminders, and goal-setting features motivate students to stay on track. EduSmart also allows parents to monitor children’s learning progress, making it a complete solution for online education. With a clean and intuitive interface, offline access, and compatibility with multiple devices, EduSmart ensures a seamless learning experience. Its scalable infrastructure and continuous updates make it suitable for schools, colleges, and individual learners who wish to maximize their educational outcomes efficiently and effectively.",
+    "size": 35,
+    "reviews": 6700,
+    "ratingAvg": 4.4,
+    "downloads": "15 M",
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 480 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 2200 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/DPFRTtrs/p12.png",
+    "title": "LanguageGo CyberSafe",
+    "companyName": "Lingua Tech",
+   "description": "NoteFlow is a powerful task management and note-taking application designed to boost personal and professional productivity. With NoteFlow, users can create structured notes, checklists, and reminders to organize their day efficiently. The app provides multiple ways to categorize notes, tag items for quick searching, and set priority levels for tasks. It also supports collaboration, allowing users to share notes and projects with teammates seamlessly. Advanced features include voice notes, rich text formatting, multimedia embedding, and cloud syncing across devices. NoteFlow also includes a dashboard view where users can track daily, weekly, and monthly progress, making it easier to stay focused on goals. Integration with calendars ensures that deadlines and events are automatically tracked. Notifications and smart suggestions further enhance productivity, reminding users about important tasks or suggesting optimized schedules. Whether for students, professionals, or creative individuals, NoteFlow offers a comprehensive suite of tools to capture ideas, manage projects, and improve workflow without losing track of essential details. The interface is clean, intuitive, and customizable, with themes and layouts that adapt to individual preferences. Users can also export notes to PDF or share via email, making collaboration and documentation effortless. With ongoing updates and user-friendly design, NoteFlow has become a reliable companion for anyone looking to maximize efficiency and maintain organization in their daily life. Additionally, it supports integration with third-party apps for extended functionality, providing a complete productivity ecosystem. From simple reminders to complex project tracking, NoteFlow covers every aspect of managing your time and information effectively, making it an indispensable tool for modern digital life.",
+    "size": 25,
+    "reviews": 8900,
+    "ratingAvg": 4.7,
+    "downloads": "27 M",
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 4100 }
+    ]
+  }
+]

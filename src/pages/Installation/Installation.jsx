@@ -31,7 +31,7 @@ const Installation = () => {
           {/* Theme Dropdown */}
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn m-1">
-              Theme
+              Sort by size
             </div>
 
             <ul
@@ -41,7 +41,7 @@ const Installation = () => {
               <li>
                 <input
                   type="radio"
-                  name="theme-dropdown"
+                  name="Low-High"
                   className="theme-controller w-full btn btn-sm btn-block btn-ghost justify-start"
                   aria-label="Default"
                   value="default"
@@ -51,22 +51,13 @@ const Installation = () => {
               <li>
                 <input
                   type="radio"
-                  name="theme-dropdown"
+                  name="High-Low"
                   className="theme-controller w-full btn btn-sm btn-block btn-ghost justify-start"
-                  aria-label="Valentine"
-                  value="valentine"
+                  aria-label="High-Low"
+                  value="High-Low"
                 />
               </li>
 
-              <li>
-                <input
-                  type="radio"
-                  name="theme-dropdown"
-                  className="theme-controller w-full btn btn-sm btn-block btn-ghost justify-start"
-                  aria-label="Aqua"
-                  value="aqua"
-                />
-              </li>
             </ul>
           </div>
         </div>

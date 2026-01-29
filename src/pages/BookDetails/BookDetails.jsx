@@ -27,7 +27,7 @@ const handleInstall =() =>{
     
     {/* Main content: image + details */}
     <div className="flex flex-col lg:flex-row gap-8">
-     <h1>fifu</h1>
+     
       <img
         src={image}
         className="w-full lg:max-w-sm rounded-lg shadow-xl p-8 bg-white"
